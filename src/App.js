@@ -21,6 +21,7 @@ function App() {
 
   const loginButton = () => {
     console.log('login');
+    console.log('hello');
   }
 
   useEffect(() => {
